@@ -1,0 +1,19 @@
+/*
+    style.css
+*/
+
+table.prova{
+    border: 1px solid #000;
+}
+
+.row {
+    background-color: red;
+}
+
+.data {
+    text-align: right;
+}
+
+.header {
+    background-color: blue;
+}
